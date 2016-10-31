@@ -1,0 +1,4 @@
+angular-quickstart/node_modules
+angular-quickstart/typings
+angular-quickstart/app/*.js
+angular-quickstart/app/*.map

@@ -1,5 +1,5 @@
 # angular2
 
-Angular 2 probe
+Angular 2 starter
 
 updating...
